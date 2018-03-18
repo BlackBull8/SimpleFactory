@@ -1,0 +1,6 @@
+D:\23种设计模式\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+D:\23种设计模式\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.exe
+D:\23种设计模式\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.pdb
+D:\23种设计模式\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.csprojResolveAssemblyReference.cache
+D:\23种设计模式\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.exe
+D:\23种设计模式\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.pdb
